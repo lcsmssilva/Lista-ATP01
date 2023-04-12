@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\bin\Debug\net6.0\ListaATP01.exe
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\bin\Debug\net6.0\ListaATP01.deps.json
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\bin\Debug\net6.0\ListaATP01.runtimeconfig.json
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\bin\Debug\net6.0\ListaATP01.dll
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\bin\Debug\net6.0\ListaATP01.pdb
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.dll
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\refint\ListaATP01.dll
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.pdb
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ListaATP01.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ListaATP01\ListaATP01\obj\Debug\net6.0\ref\ListaATP01.dll
